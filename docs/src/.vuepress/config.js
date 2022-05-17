@@ -24,7 +24,7 @@ module.exports = {
 		sidebarDepth: 4,
 		nav: [
 			{
-				text: "Getting Started",
+				text: "Practical Preparation",
 				link: "/lab00",
 			},
 			{
